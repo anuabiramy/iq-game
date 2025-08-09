@@ -1,7 +1,10 @@
 {
   "functions": {
     "api/*.py": {
-      "runtime": "python3.10"
+      "runtime": "@vercel/python@3.1.57"
     }
-  }
+  },
+  "builds": [
+    { "src": "pages/**/*.js", "use": "@vercel/next" }
+  ]
 }
