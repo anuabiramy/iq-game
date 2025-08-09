@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "What is 5 + 3?",
+    "options": ["6", "7", "8", "9"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 2,
+    "question": "Which number comes next in the sequence: 2, 4, 8, 16, ?",
+    "options": ["18", "24", "32", "34"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 3,
+    "question": "If ALL FROBS are BLICKS, and ALL BLICKS are SNORPS, are all FROBS definitely SNORPS?",
+    "options": ["Yes", "No", "Cannot be determined", "Only if some BLICKS are FROBS"],
+    "answer_index": 0,
+    "difficulty": 2
+  },
+  {
+    "id": 4,
+    "question": "Which is the odd one out? Apple, Banana, Carrot, Mango",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 5,
+    "question": "What is 12 × 13?",
+    "options": ["145", "156", "165", "172"],
+    "answer_index": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 6,
+    "question": "Which number is missing? 3, 6, 9, 12, __, 18",
+    "options": ["14", "15", "16", "17"],
+    "answer_index": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 7,
+    "question": "If it takes 5 machines 5 minutes to make 5 gadgets, how long to make 100 gadgets?",
+    "options": ["100 min", "50 min", "20 min", "5 min"],
+    "answer_index": 2,
+    "difficulty": 2
+  },
+  {
+    "id": 8,
+    "question": "Which number completes the pattern: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["11", "12", "13", "15"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 9,
+    "question": "If 60% of a number is 120, what is the number?",
+    "options": ["180", "200", "220", "240"],
+    "answer_index": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 10,
+    "question": "Which shape has the most sides? Triangle, Pentagon, Hexagon, Octagon",
+    "options": ["Triangle", "Pentagon", "Hexagon", "Octagon"],
+    "answer_index": 3,
+    "difficulty": 1
+  },
+  {
+    "id": 11,
+    "question": "Which of these is a prime number? 21, 29, 33, 35",
+    "options": ["21", "29", "33", "35"],
+    "answer_index": 1,
+    "difficulty": 2
+  },
+  {
+    "id": 12,
+    "question": "Which is heavier: 1 kg of iron or 1 kg of cotton?",
+    "options": ["Iron", "Cotton", "Same weight", "Cannot say"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 13,
+    "question": "What is 144 ÷ 12?",
+    "options": ["10", "11", "12", "13"],
+    "answer_index": 2,
+    "difficulty": 1
+  },
+  {
+    "id": 14,
+    "question": "What is the cube root of 27?",
+    "options": ["2", "3", "4", "5"],
+    "answer_index": 1,
+    "difficulty": 1
+  },
+  {
+    "id": 15,
+    "question": "If 3x = 12, what is x?",
+    "options": ["2", "3", "4", "6"],
+    "answer_index": 2,
+    "difficulty": 1
+  }
+]
